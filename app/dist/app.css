@@ -2921,7 +2921,7 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
-  padding: 101px 0 297px;
+  /* padding: 101px 0 297px; */
   color: #fff;
 }
 .flat-search-home p {
@@ -3137,9 +3137,9 @@
   padding-right: 414px;
   margin-bottom: 0;
 }
-.flat-contact2 .heading-section p {
+/* .flat-contact2 .heading-section p {
   margin-bottom: 82px;
-}
+} */
 .flat-contact2 .heading-section .sc-button {
   width: 212px;
 }
@@ -4303,12 +4303,12 @@
     opacity: 1;
   }
 }
-.flat-why-choose.page {
+/* .flat-why-choose.page {
   padding: 0 0 99px;
-}
+} */
 
 .flat-search-home.page {
-  padding: 65px 0 258px;
+  padding: 65px 10px;
 }
 .flat-search-home.page .heading-section {
   padding: 0 130px;
